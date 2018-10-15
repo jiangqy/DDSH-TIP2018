@@ -1,5 +1,5 @@
 ---
-Source code for paper "Deep Discrete Supervised Hashing"
+Source code for paper "Deep Discrete Supervised Hashing" on TIP-2018
 ---
 ## Introduction
 ### 1. Running Environment
