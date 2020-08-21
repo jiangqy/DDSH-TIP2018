@@ -3,7 +3,7 @@ Source code for paper "Deep Discrete Supervised Hashing" on TIP-2018
 ---
 ## Introduction
 ### 0. About the paper
-This repo is the source code for the paper "Deep Discrete Supervised Hashing" on TIP-2018. The authors are: [Qing-Yuan Jiang](http://lamda.nju.edu.cn/jiangqy), Xue Cui and [Wu-Jun Li](http://cs.nju.edu.cn/lwj). If you have any questions about the source code, please contact: jiangqy#lamda.nju.edu.cn or qyjiang24#gmail.com.
+This repo is the source code for the paper "Deep Discrete Supervised Hashing" on TIP-2018. The authors are: [Qing-Yuan Jiang](https://jiangqy.github.io/), Xue Cui and [Wu-Jun Li](http://cs.nju.edu.cn/lwj). If you have any questions about the source code, please contact: qyjiang24#gmail.com.
 ### 1. Running Environment
 Matlab 2016
 
